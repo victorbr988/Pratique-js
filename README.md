@@ -16,7 +16,7 @@
 ```shell
  git checkout -b victor-gabriel
 ```
-#### 4 - Certifiuqe-se de estar na sua branch:
+#### 4 - Certifique-se de estar na sua branch:
 ```shell
  git branch
 ```
