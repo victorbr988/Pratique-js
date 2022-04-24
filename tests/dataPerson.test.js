@@ -25,5 +25,6 @@ describe('desenvolva a lógica para que a função dataPerson retorne um objeto'
     expect(req1).toEqual(res1)
     expect(req2).toEqual(res2)
     expect(req3).toEqual(res3)
+    expect(typeof req1).toEqual('object')
   })
 })
