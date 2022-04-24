@@ -45,6 +45,14 @@ git commit -m "adiciona função que retorna as informações do usuário"
 ```
 <hr/>
 
-## Exercícios
+## Exercícios | Todos os exercícios estão dentro da pasta Basic-Exercises
 
-#### 1 - Vá até o arquivo sumNumbers.js e adicione seu código dentro da função 
+#### 1 - Vá até o arquivo sumNumbers.js e adicione seu código dentro da função, essa função deve retornar a soma entre dois números.
+
+#### 2 - Vá até o arquivo playgroundArray.js e adicione seu código dentro da função, essa função recebe um array como argumento e deve retornar a quantidade de números dentro desse array.
+
+#### 3 - Vá até o arquivo doubleArray.js e adicione seu código dentro da função, essa função recebe um array como argumento e deve retornar um novo array com o dobro dos números que estão dentro do array.
+
+#### 4 - Vá até o arquivo addFruitArray.js e você deverá criar uma função que tenha obrigatoriamente o nome addFruitArray.js, essa função recebe um array contendo alguns nomes de frutas, essa função deve adicionar um novo item dentro do array que ela recebeu como argumento, e retornar esse array.
+
+#### 5 - Vá até o arquivo dataPerson.js e você deverá adicionar seu código dentro da função, essa função recebe três argumentos e você deve retornar um objeto que contenha as informações que foram recebidas por parâmetros.
