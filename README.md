@@ -1,6 +1,6 @@
 # Pratique-js
 
-## Antes do desenvolvimento
+## Antes do desenvolvimento ⏮️
 <hr/>
 
 #### 1 - Faça o clone do repositório na sua máquina utilizando ssh ou https
