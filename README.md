@@ -23,10 +23,13 @@
 #### 5 - Abra seu pull request e não dê merge
 <hr/>
 ## Como utilizar os testes
+
 #### Para iniciar os testes utilize este comando no terminal sempre que adicionar seu algoritmo nas funções:
+
 ```shell
  npm test
 ```
+
 #### Também é possível executar 1 teste por vez, para isso coloque o nome do arquivo que você quer testar:
 ```shell
  npm test sumNumbers
