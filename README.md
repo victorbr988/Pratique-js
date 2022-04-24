@@ -38,7 +38,7 @@
 
 ## Durante o desenvolvimento
 
-#### Para simular um ambiente de trabalho real, a cada solução, adicione ao stage, comite, e dê push.
+#### Para simular um ambiente de trabalho real, a cada solução, adicione ao stage, faça o commit, e dê push.
 #### Coloque commits descritivos, exemplo: 
 ```shell
 git commit -m "adiciona função que retorna as informações do usuário"
