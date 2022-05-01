@@ -2,6 +2,7 @@
 
 ## Antes do desenvolvimento ⏮️
 <hr/>
+
 #### 1 - Faça o clone do repositório na sua máquina utilizando ssh ou https
 ```shell
  git clone
