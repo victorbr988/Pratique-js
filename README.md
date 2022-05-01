@@ -12,7 +12,7 @@
 ```shell
  npm install
 ```
-#### 3 - Cria uma nova branch a partir da branch main exemplo:
+#### 3 - Cria uma nova branch a partir da branch main, exemplo:
 ```shell
  git checkout -b victor-gabriel
 ```
@@ -21,7 +21,7 @@
  git branch
 ```
 
-#### 5 - Abra seu pull request e não dê merge
+#### 5 - Abra seu pull request e não faça o merge
 <hr/>
 ## Como utilizar os testes
 
@@ -39,6 +39,7 @@
 ## Durante o desenvolvimento
 
 #### Para simular um ambiente de trabalho real, a cada solução, adicione ao stage, faça o commit, e dê push.
+
 #### Coloque commits descritivos, exemplo: 
 ```shell
 git commit -m "adiciona função que retorna as informações do usuário"
