@@ -23,6 +23,7 @@
 
 #### 5 - Abra seu pull request e não faça o merge
 <hr/>
+
 ## Como utilizar os testes
 
 #### Para iniciar os testes utilize este comando no terminal sempre que adicionar seu algoritmo nas funções:
