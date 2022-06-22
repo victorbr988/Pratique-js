@@ -1,60 +1,38 @@
 # Pratique-js
 
-## Antes do desenvolvimento ⏮️
+Um repositório feito para aqueles que querem desenvolver suas habilidades com JavaScript.
+
+## 📚 Instalação do projeto
+
 <hr/>
 
-#### 1 - Faça o clone do repositório na sua máquina utilizando ssh ou https
-```shell
- git clone
+1. Faça o clone do repositório na sua máquina utilizando _ssh_ ou _https_ e depois acesse a pasta;
+
+```bash
+# HTTPS
+git clone https://github.com/victorbr988/Pratique-js.git
+
+# SSH
+git clone git@github.com:victorbr988/Pratique-js.git
 ```
 
-#### 2 - Instale o npm 
-```shell
+```bash
+# Acessar pasta
+cd Pratique-js
+```
+
+2. Instale as dependências utilizando `npm`;
+
+```bash
  npm install
 ```
-#### 3 - Cria uma nova branch a partir da branch main, exemplo:
-```shell
- git checkout -b victor-gabriel
-```
-#### 4 - Certifique-se de estar na sua branch:
-```shell
- git branch
-```
 
-#### 5 - Abra seu pull request e não faça o merge
-<hr/>
+## 🧪 Como utilizar os testes
 
-## Como utilizar os testes
+Sempre que fizer uma alteração na sua solução, execute o `npm test` no seu terminal para validar sua solução.
 
-#### Para iniciar os testes utilize este comando no terminal sempre que adicionar seu algoritmo nas funções:
+Também é possível executar 1 teste por vez, para isso coloque o nome do arquivo que você quer testar, exemplo `npm test sumNumbers`.
 
-```shell
- npm test
-```
+## 🚀 Resolvendo os exercícios
 
-#### Também é possível executar 1 teste por vez, para isso coloque o nome do arquivo que você quer testar:
-```shell
- npm test sumNumbers
-```
-
-## Durante o desenvolvimento
-
-#### Para simular um ambiente de trabalho real, a cada solução, adicione ao stage, faça o commit, e dê push.
-
-#### Coloque commits descritivos, exemplo: 
-```shell
-git commit -m "adiciona função que retorna as informações do usuário"
-```
-<hr/>
-
-## Exercícios | Todos os exercícios estão dentro da pasta Basic-Exercises
-
-#### 1 - Vá até o arquivo sumNumbers.js e adicione seu código dentro da função, essa função deve retornar a soma entre dois números.
-
-#### 2 - Vá até o arquivo playgroundArray.js e adicione seu código dentro da função, essa função recebe um array como argumento e deve retornar a quantidade de números dentro desse array.
-
-#### 3 - Vá até o arquivo doubleArray.js e adicione seu código dentro da função, essa função recebe um array como argumento e deve retornar um novo array com o dobro dos números que estão dentro do array.
-
-#### 4 - Vá até o arquivo addFruitArray.js e você deverá criar uma função que tenha obrigatoriamente o nome addFruitArray.js, essa função recebe um array contendo alguns nomes de frutas, essa função deve adicionar um novo item dentro do array que ela recebeu como argumento, e retornar esse array.
-
-#### 5 - Vá até o arquivo dataPerson.js e você deverá adicionar seu código dentro da função, essa função recebe três argumentos e você deve retornar um objeto que contenha as informações que foram recebidas por parâmetros.
+A parte mais legal, resolver os exercícios, cada exercício tera suas instruções altamente detalhada com o que deve ser feito e o que o teste espera, então basta ler as instruções e escrever sua solução.
