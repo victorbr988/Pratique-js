@@ -4,8 +4,6 @@ Um repositório feito para aqueles que querem desenvolver suas habilidades com J
 
 ## 📚 Instalação do projeto
 
-<hr/>
-
 1. Faça o clone do repositório na sua máquina utilizando _ssh_ ou _https_ e depois acesse a pasta;
 
 ```bash
@@ -36,3 +34,5 @@ Também é possível executar 1 teste por vez, para isso coloque o nome do arqui
 ## 🚀 Resolvendo os exercícios
 
 A parte mais legal, resolver os exercícios, cada exercício tera suas instruções altamente detalhada com o que deve ser feito e o que o teste espera, então basta ler as instruções e escrever sua solução.
+
+[Ver Exercícios](./exercises.md)
