@@ -35,3 +35,19 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 - Será validado se, ao receber um array com 4 itens deve retornar 4, por exemplo se receber `[1, 2, 4, 8]` deve retornar `4`;
 
 </details>
+
+### 3. Dobrando o Array
+
+<details>
+  <summary>Você deve implementar a função `doubleArray` com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores multiplicado por 2.</summary>
+  
+  <br />
+  
+  O arquivo `doubleArray.test.js` contém os testes para a função `doubleArray` já implementados. Implemente a função no arquivo `Basic-Exercises/doubleArray.js` para que ele passe em todos os testes.
+
+**O que será testado:**
+
+- Será validado se, ao receber um array vazio deve retorna outro array vazio;
+- Será validado se, ao receber um array com 4 itens deve retornar outro array com 4 itens, por exemplo se receber `[1, 2, 4, 8]` deve retornar `[2, 4, 8, 16]`;
+
+</details>
