@@ -51,3 +51,18 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 - Será validado se, ao receber um array com 4 itens deve retornar outro array com 4 itens, por exemplo se receber `[1, 2, 4, 8]` deve retornar `[2, 4, 8, 16]`;
 
 </details>
+
+### 4. Dobrando o Array
+
+<details>
+  <summary>Você deve implementar a função `addFruitArray` com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores com um item a mais no final.</summary>
+  
+  <br />
+  
+  O arquivo `addFruitArray.test.js` contém os testes para a função `addFruitArray` já implementados. Implemente a função no arquivo `Basic-Exercises/addFruitArray.js` para que ele passe em todos os testes.
+
+**O que será testado:**
+
+- Será validado se, ao receber um array com 2 itens deve retornar outro array com 3 itens, por exemplo se receber `['maçã', 'abacaxi']` deve retornar `['maçã', 'abacaxi', 'pêra']`;
+
+</details>
