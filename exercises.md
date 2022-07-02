@@ -7,7 +7,7 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 ### 1. Somando dois números
 
 <details>
-  <summary>Você deve implementar a função `sum` com a sua solução. A função recebe dois parâmetros do tipo `number` e deve retornar a soma desses dois parâmetros.</summary>
+  <summary>Você deve implementar a função <code>sum</code> com a sua solução. A função recebe dois parâmetros do tipo `number` e deve retornar a soma desses dois parâmetros.</summary>
   
   <br />
   
@@ -23,7 +23,7 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 ### 2. Tamanho do Array
 
 <details>
-  <summary>Você deve implementar a função `lengthArray` com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar a quantidade de itens dentro dele.</summary>
+  <summary>Você deve implementar a função <code>lengthArray</code> com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar a quantidade de itens dentro dele.</summary>
   
   <br />
   
@@ -39,7 +39,7 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 ### 3. Dobrando o Array
 
 <details>
-  <summary>Você deve implementar a função `doubleArray` com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores multiplicado por 2.</summary>
+  <summary>Você deve implementar a função <code>doubleArray</code> com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores multiplicado por 2.</summary>
   
   <br />
   
@@ -55,7 +55,7 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 ### 4. Adicionando Fruta ao Array
 
 <details>
-  <summary>Você deve implementar a função `addFruitArray` com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores com um item a mais no final.</summary>
+  <summary>Você deve implementar a função <code>addFruitArray</code> com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores com um item a mais no final.</summary>
   
   <br />
   
@@ -70,7 +70,7 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 ### 5. Dados do Usuário
 
 <details>
-  <summary>Você deve implementar a função `dataPerson` com a sua solução. A função recebe três parâmetros e deve retornar um objeto com os parâmetros recebidos.</summary>
+  <summary>Você deve implementar a função <code>dataPerson</code> com a sua solução. A função recebe três parâmetros e deve retornar um objeto com os parâmetros recebidos.</summary>
   
   <br />
   
