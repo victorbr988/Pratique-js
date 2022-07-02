@@ -52,7 +52,7 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 
 </details>
 
-### 4. Dobrando o Array
+### 4. Adicionando Fruta ao Array
 
 <details>
   <summary>Você deve implementar a função `addFruitArray` com a sua solução. A função recebe um parâmetro do tipo `array` e deve retornar um array com os mesmos valores com um item a mais no final.</summary>
@@ -64,5 +64,21 @@ Aqui vão estar detalhados todos os exercícios, desde da proposta, o que se ped
 **O que será testado:**
 
 - Será validado se, ao receber um array com 2 itens deve retornar outro array com 3 itens, por exemplo se receber `['maçã', 'abacaxi']` deve retornar `['maçã', 'abacaxi', 'pêra']`;
+
+</details>
+
+### 5. Dados do Usuário
+
+<details>
+  <summary>Você deve implementar a função `dataPerson` com a sua solução. A função recebe três parâmetros e deve retornar um objeto com os parâmetros recebidos.</summary>
+  
+  <br />
+  
+  O arquivo `dataPerson.test.js` contém os testes para a função `dataPerson` já implementados. Implemente a função no arquivo `Basic-Exercises/dataPerson.js` para que ele passe em todos os testes.
+
+**O que será testado:**
+
+- Será validado se, ao receber `'Erik'`, `'Felipe'` e `25`, deve retornar um objeto no formato `{ name: 'Erik', lastname: 'Felipe', age: 25 }`;
+- Será validado se, ao receber `'Louis'`, `'Hamilton'` e `39`, deve retornar um objeto no formato `{ name: 'Louis', lastname: 'Hamilton', age: 39 }`;
 
 </details>
